@@ -1,5 +1,5 @@
 <?php
 
-echo "Mais um teste";
+echo "Atualizando o echo";
 
 ?>
